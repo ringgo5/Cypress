@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-cypress",
+  "version": "1.0.0",
+  "description": "testeo con cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ringgo5/Cypress.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "testing",
+    "cypress"
+  ],
+  "author": "Vicente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ringgo5/Cypress/issues"
+  },
+  "homepage": "https://github.com/ringgo5/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
